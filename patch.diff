@@ -1,0 +1,21 @@
+From 76c099664b344f1d188455b2732e9427f20020fc Mon Sep 17 00:00:00 2001
+From: tomaspribyl123 <1tomaspribyl@seznam.cz>
+Date: Thu, 19 Jan 2017 17:53:34 +0100
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..6a902af
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# repozitor1
+\ No newline at end of file
+-- 
+2.11.0.windows.3
+
